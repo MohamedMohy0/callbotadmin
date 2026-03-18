@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/callbotadmin/static/css/main.426cc82a.css",
+    "main.js": "/callbotadmin/static/js/main.fdfdd2d7.js",
+    "static/js/453.68e4affd.chunk.js": "/callbotadmin/static/js/453.68e4affd.chunk.js",
+    "index.html": "/callbotadmin/index.html",
+    "main.426cc82a.css.map": "/callbotadmin/static/css/main.426cc82a.css.map",
+    "main.fdfdd2d7.js.map": "/callbotadmin/static/js/main.fdfdd2d7.js.map",
+    "453.68e4affd.chunk.js.map": "/callbotadmin/static/js/453.68e4affd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.426cc82a.css",
+    "static/js/main.fdfdd2d7.js"
+  ]
+}
